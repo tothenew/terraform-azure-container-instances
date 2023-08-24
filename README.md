@@ -178,7 +178,7 @@ module "container_group" {
 | `location`                  | The location to create the resources in.        | string           | Required         |
 | `containers`                | A list of containers to create for this Container Group. | list(object)     | Required         |
 | `os_type`                   | The OS type of this Container Group.            | string           | "Linux"          |
-| `restart_policy`            | The restart policy of this Container Group.     | string           | "Always"         |
+| `restart_policy`            | The restart policy o16f this Container Group.     | string           | "Always"         |
 | `ip_address_type`           | The IP address type of this Container Group.    | string           | "None"           |
 | `dns_name_label`            | A DNS name label for this Container Group.      | string           | null             |
 | `dns_name_label_reuse_policy` | The reuse policy to use for the DNS name label. | string           | null             |
