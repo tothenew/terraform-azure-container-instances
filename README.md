@@ -15,7 +15,17 @@ This Terraform module simplifies the creation of an Azure Container Group. An Az
 
 | Name | Version |
 |------|---------|
-| <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 3.39.0 |
+| <a name="requirement_terraform"></a> [azurerm](#requirement\_terraform) | >= 3.39.0 |
+
+## Modules
+
+No modules.
+
+## Resources
+
+| Name | Type |
+|------|------|
+| [azurerm_container_group](https://registry.terraform.io/modules/claranet/aci/azurerm/latest) | resource |
 
 ## Prerequisites
 
