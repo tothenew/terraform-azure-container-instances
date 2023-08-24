@@ -26,7 +26,7 @@ Before using this Terraform module, ensure that you have the following prerequis
 3. **Azure CLI**: Install the Azure CLI on your local machine. You can download it from the [Azure CLI website](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli).
 
 - Terraform version >= 1.3.0 is required.
-- Azure provider version >= 3.16.0 is required.
+- Azure provider version >= 3.39.0 is required.
 
 ## Features
 
